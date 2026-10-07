@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://diccord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Elastic-File-Storage"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Elastic-File-Storage?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Elastic-File-Storage"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Elastic-File-Storage?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Elastic-File-Storage/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Elastic-File-Storage?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Elastic-File-Storage/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Elastic-File-Storage?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -76,7 +76,7 @@ The commercial market features **hyperscaler managed NFS/SMB services** with ser
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 The open-source ecosystem provides battle-tested distributed block/file/object storage engines, Kubernetes CSI drivers, and POSIX-compliant network filers.
 
@@ -126,8 +126,8 @@ The open-source ecosystem provides battle-tested distributed block/file/object s
 Contributions are warmly welcomed! 🤝 Follow these guidelines to add or update cloud elastic file storage platforms or open-source storage repositories:
 
 1. 🍴 **Fork** the repository on GitHub.
-2. 📝 **Edit `README.md`** maintaining strict alphabetical or specified sorting guidelines (Valuation for SaaS, Star Count for Open Source).
-3. 🔗 Include exact starting tier prices, specific free tier/trial limits, company valuation, and white-background star badges linking to `/stargazers`.
+2. 📝 **Edit `README.md`** maintaining strict alphabetical or specified sorting guidelines (Valuation for SaaS, Stars_Count for Open Source).
+3. 🔗 Include exact starting tier prices, specific free tier/trial limits, company valuation, and white-background Stars_Badges linking to `/stargazers`.
 4. 🚀 Submit a **Pull Request** with a detailed explanation of your changes.
 
 ---
@@ -162,3 +162,12 @@ If this curated directory helps your cloud storage architectural planning, pleas
 <p align="center">
   <b>Made with ❤️ for storage engineers, cloud architects, and open-source file system advocates.</b>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Cloud-Elastic-File-Storage&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Cloud-Elastic-File-Storage_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Cloud-Elastic-File-Storage_growth.svg">
+  </picture>
+</a>
